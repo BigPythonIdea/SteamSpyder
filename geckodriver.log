@@ -95,3 +95,395 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1637525692059	geckodriver	INFO	Listening on 127.0.0.1:62041
+1637525695058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62042" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilec9CkeW"
+1637525695602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilec9CkeW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62042/devtools/browser/c182c2c4-e8d0-4249-9550-3733777eb261
+1637525697495	Marionette	INFO	Listening on port 62048
+1637525697681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637525706705	Marionette	INFO	Stopped listening on port 62048
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637525765046	geckodriver	INFO	Listening on 127.0.0.1:62159
+1637525768037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62160" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilebRgbpO"
+1637525768246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilebRgbpO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62160/devtools/browser/4c1c9ee5-37e8-4216-8fff-316f039016d4
+1637525769718	Marionette	INFO	Listening on port 62167
+1637525770050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637525803397	Marionette	INFO	Stopped listening on port 62167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637525814295	geckodriver	INFO	Listening on 127.0.0.1:62268
+1637525817289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62269" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileu2r6G1"
+1637525817507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileu2r6G1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62269/devtools/browser/a6a8fb1e-64d2-4791-9c34-44bad52d0dc2
+1637525818931	Marionette	INFO	Listening on port 62275
+1637525819300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637525826453	Marionette	INFO	Stopped listening on port 62275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637525845146	geckodriver	INFO	Listening on 127.0.0.1:62489
+1637525848137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62490" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileoFsQUo"
+1637525848355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileoFsQUo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62490/devtools/browser/bde9e07f-30d6-42ba-94e8-98b75000e5a9
+1637525849951	Marionette	INFO	Listening on port 62498
+1637525850153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11588, MediaDecoderStateMachine #1] WARNING: 18a20d10900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637525884445	Marionette	INFO	Stopped listening on port 62498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637525904462	geckodriver	INFO	Listening on 127.0.0.1:62581
+1637525907455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62582" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileBLxahC"
+1637525907666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileBLxahC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62582/devtools/browser/20894ec6-3911-4d0d-b6b2-366abbb9b1eb
+1637525909197	Marionette	INFO	Listening on port 62589
+1637525909467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 24076, MediaDecoderStateMachine #1] WARNING: 1fe9a6fc900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637525936546	Marionette	INFO	Stopped listening on port 62589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637526185936	geckodriver	INFO	Listening on 127.0.0.1:58008
+1637526188932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58009" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilekoIRlG"
+1637526189189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilekoIRlG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58009/devtools/browser/dd71a0ca-6bf1-49b3-af4c-0ed4cd3094e7
+1637526190781	Marionette	INFO	Listening on port 65115
+1637526190944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11064, MediaDecoderStateMachine #1] WARNING: 1e43feb4f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11064, MediaDecoderStateMachine #1] WARNING: 1e438b99120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637526284664	Marionette	INFO	Stopped listening on port 65115
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637526332032	geckodriver	INFO	Listening on 127.0.0.1:60992
+1637526335026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60993" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilelsBqHd"
+1637526335245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilelsBqHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60993/devtools/browser/781d907a-18c0-42ff-9819-1e3e1f312984
+1637526336833	Marionette	INFO	Listening on port 53939
+1637526337039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 22384, MediaDecoderStateMachine #1] WARNING: 16335e7bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637526355831	Marionette	INFO	Stopped listening on port 53939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637526408071	geckodriver	INFO	Listening on 127.0.0.1:51194
+1637526411063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51195" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileIRllLL"
+1637526411263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileIRllLL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51195/devtools/browser/9eb8e25f-b782-4aa6-8869-d4bd993c0f63
+1637526412843	Marionette	INFO	Listening on port 58042
+1637526413076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11128, MediaDecoderStateMachine #1] WARNING: 23142569740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637526433694	Marionette	INFO	Stopped listening on port 58042
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637526551300	geckodriver	INFO	Listening on 127.0.0.1:58958
+1637526554292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58959" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofile27AirW"
+1637526554494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofile27AirW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58959/devtools/browser/79a43fab-b690-4715-94ab-094a65e3a7c7
+1637526556076	Marionette	INFO	Listening on port 53819
+1637526556307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18532, MediaDecoderStateMachine #1] WARNING: 1a1b8a80f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637526616410	Marionette	INFO	Stopped listening on port 53819
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637527252519	geckodriver	INFO	Listening on 127.0.0.1:59470
+1637527255509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59471" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilegfT3wt"
+1637527255773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilegfT3wt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59471/devtools/browser/8f63ebe5-8ab1-441b-b5f5-e942e9fc887f
+1637527257342	Marionette	INFO	Listening on port 54628
+1637527257524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 23692, MediaDecoderStateMachine #1] WARNING: 280f4641580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637527287381	Marionette	INFO	Stopped listening on port 54628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637527292139	geckodriver	INFO	Listening on 127.0.0.1:49169
+1637527295129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49170" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileYFQOYZ"
+1637527295328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileYFQOYZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49170/devtools/browser/3fa489d2-337d-455b-83b7-b462518f1b09
+1637527296890	Marionette	INFO	Listening on port 62169
+1637527297141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 9352, MediaDecoderStateMachine #1] WARNING: 21b69944900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637527328986	Marionette	INFO	Stopped listening on port 62169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637527588093	geckodriver	INFO	Listening on 127.0.0.1:53087
+1637527591083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53088" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileHs0XNc"
+1637527591287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileHs0XNc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53088/devtools/browser/5d37d905-5ba5-4903-8d2a-9832357820cb
+1637527592793	Marionette	INFO	Listening on port 49344
+1637527593096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18248, MediaDecoderStateMachine #1] WARNING: 1f94d834200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637527606889	Marionette	INFO	Stopped listening on port 49344
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637527627162	geckodriver	INFO	Listening on 127.0.0.1:62010
+1637527630155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62011" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileFiSYZV"
+1637527630359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileFiSYZV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62011/devtools/browser/d54f4276-fab0-4dd1-a631-aec97b43a0f1
+1637527631860	Marionette	INFO	Listening on port 50063
+1637527632169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21476, MediaDecoderStateMachine #1] WARNING: 23004bf83c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637527649343	Marionette	INFO	Stopped listening on port 50063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637527863180	geckodriver	INFO	Listening on 127.0.0.1:53877
+1637527866175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53878" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileGnpI8a"
+1637527866375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileGnpI8a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53878/devtools/browser/893219f0-3500-4015-a5c5-7f9165ca2dc3
+1637527868060	Marionette	INFO	Listening on port 60452
+1637527868187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 10416, MediaDecoderStateMachine #1] WARNING: 19c246fc740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637527887418	Marionette	INFO	Stopped listening on port 60452
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637527950249	geckodriver	INFO	Listening on 127.0.0.1:59873
+1637527953242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59874" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilexZ4yFV"
+1637527953444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilexZ4yFV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59874/devtools/browser/3b7cf2b7-e35e-4027-86e0-93f4365eadf9
+1637527955007	Marionette	INFO	Listening on port 63670
+1637527955252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 2748, MediaDecoderStateMachine #1] WARNING: 2586ffb8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637527968600	Marionette	INFO	Stopped listening on port 63670
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637528150826	geckodriver	INFO	Listening on 127.0.0.1:63676
+1637528153817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63677" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileF1LKjL"
+1637528154017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileF1LKjL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63677/devtools/browser/09d17e2e-2bc9-4bcc-8d6b-4b1a6793f8f2
+1637528155663	Marionette	INFO	Listening on port 49604
+1637528155833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 24568, MediaDecoderStateMachine #1] WARNING: 24aa88719e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637528167079	Marionette	INFO	Stopped listening on port 49604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637528251240	geckodriver	INFO	Listening on 127.0.0.1:64625
+1637528254233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64626" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilePABuhC"
+1637528254432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilePABuhC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64626/devtools/browser/2a9a29ab-b28b-426e-9e2f-68289526eb16
+1637528256028	Marionette	INFO	Listening on port 52631
+1637528256247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18156, MediaDecoderStateMachine #1] WARNING: 211224ccba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637528267859	Marionette	INFO	Stopped listening on port 52631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637528385954	geckodriver	INFO	Listening on 127.0.0.1:65374
+1637528388944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65375" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofile4wCgoo"
+1637528389145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofile4wCgoo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65375/devtools/browser/aba9bab5-ed55-462e-b634-74554e5fa003
+1637528390733	Marionette	INFO	Listening on port 50256
+1637528390955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 4792, MediaDecoderStateMachine #1] WARNING: 24595e7a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637528429146	Marionette	INFO	Stopped listening on port 50256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637528874246	geckodriver	INFO	Listening on 127.0.0.1:51438
+1637528877239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51439" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilefXFI8U"
+1637528877438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilefXFI8U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51439/devtools/browser/856e5531-2a3a-41b5-8349-ec5d02364265
+1637528879120	Marionette	INFO	Listening on port 63628
+1637528879285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 132d5a49820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 132d66df040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637528942045	Marionette	INFO	Stopped listening on port 63628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529006598	geckodriver	INFO	Listening on 127.0.0.1:55224
+1637529009593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55225" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileJXghap"
+1637529009794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileJXghap\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55225/devtools/browser/59c86f3e-9c00-471c-aa1f-d7d44551f488
+1637529011450	Marionette	INFO	Listening on port 59044
+1637529011605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21992, MediaDecoderStateMachine #1] WARNING: 1b196be9ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529023663	Marionette	INFO	Stopped listening on port 59044
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529157263	geckodriver	INFO	Listening on 127.0.0.1:56967
+1637529160254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56968" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilen6KNg1"
+1637529160451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilen6KNg1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56968/devtools/browser/e3f942de-892d-4140-9ab1-440418ccc640
+1637529162037	Marionette	INFO	Listening on port 50103
+1637529162266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 3900, MediaDecoderStateMachine #1] WARNING: 20f6f2d8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529183903	Marionette	INFO	Stopped listening on port 50103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529332198	geckodriver	INFO	Listening on 127.0.0.1:60308
+1637529335192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60309" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileEct8cJ"
+1637529335399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileEct8cJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60309/devtools/browser/c37347e7-a101-44d1-85c6-ae1412a644ee
+1637529336905	Marionette	INFO	Listening on port 59453
+1637529337207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21084, MediaDecoderStateMachine #1] WARNING: 2510e4c42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529350165	Marionette	INFO	Stopped listening on port 59453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529472902	geckodriver	INFO	Listening on 127.0.0.1:54496
+1637529475895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54497" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilepjnYx6"
+1637529476094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilepjnYx6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54497/devtools/browser/d8db37c5-4a6b-4509-8356-c6a9796a86f5
+1637529477683	Marionette	INFO	Listening on port 55335
+1637529477906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 3392, MediaDecoderStateMachine #1] WARNING: 270db4f63c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529488023	Marionette	INFO	Stopped listening on port 55335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529525062	geckodriver	INFO	Listening on 127.0.0.1:54580
+1637529528056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54581" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilecnyO00"
+1637529528260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilecnyO00\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54581/devtools/browser/cabbb1bd-f431-45b0-818c-49da45682959
+1637529529835	Marionette	INFO	Listening on port 55359
+1637529530099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 13960, MediaDecoderStateMachine #1] WARNING: 205942f84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529537121	Marionette	INFO	Stopped listening on port 55359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529556222	geckodriver	INFO	Listening on 127.0.0.1:52484
+1637529559216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52485" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileIepbh8"
+1637529559414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileIepbh8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52485/devtools/browser/f7c8f171-4d9f-4584-abf2-86617db9969b
+1637529560978	Marionette	INFO	Listening on port 57121
+1637529561228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 9480, MediaDecoderStateMachine #1] WARNING: 24cc0294c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529569072	Marionette	INFO	Stopped listening on port 57121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637529756807	geckodriver	INFO	Listening on 127.0.0.1:55958
+1637529759805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55959" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileiFdsXL"
+1637529760027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileiFdsXL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55959/devtools/browser/2f5dea30-e30d-4c60-ab34-9d83a0579c8a
+1637529761537	Marionette	INFO	Listening on port 53317
+1637529761818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19444, MediaDecoderStateMachine #1] WARNING: 1b5c7a9f740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529776296	Marionette	INFO	Stopped listening on port 53317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529834188	geckodriver	INFO	Listening on 127.0.0.1:52207
+1637529837180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52208" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilePP3VL6"
+1637529837379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofilePP3VL6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52208/devtools/browser/953cc32a-f11c-4d8b-b5b6-9e5de470f29b
+1637529838968	Marionette	INFO	Listening on port 55745
+1637529839192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19928, MediaDecoderStateMachine #1] WARNING: 238cdc96200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529850377	Marionette	INFO	Stopped listening on port 55745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637529881751	geckodriver	INFO	Listening on 127.0.0.1:52128
+1637529884740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52129" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofile6jKNH8"
+1637529884945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofile6jKNH8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52129/devtools/browser/92868a89-d8cf-42df-b33b-94b6d414a1a8
+1637529886547	Marionette	INFO	Listening on port 61287
+1637529886784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 15716, MediaDecoderStateMachine #1] WARNING: 161c3e1dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637529898898	Marionette	INFO	Stopped listening on port 61287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637530090423	geckodriver	INFO	Listening on 127.0.0.1:63412
+1637530093412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63413" "-no-remote" "-profile" "C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileaGPgxS"
+1637530093611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mooncat\\AppData\\Local\\Temp\\rust_mozprofileaGPgxS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63413/devtools/browser/4e3e8837-bc03-4ab5-8a87-b6ae9ab68ede
+1637530095170	Marionette	INFO	Listening on port 60190
+1637530095424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 22108, MediaDecoderStateMachine #1] WARNING: 1a45348b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
