@@ -29,33 +29,10 @@ from selenium.webdriver.support.ui import Select
 
 driver = webdriver.Firefox()
 driver.get("https://store.steampowered.com/")
-bnt = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/div[1]/div[2]/div[16]/div/div[1]/div[2]/div[1]/div/a/span').click()
+search = driver.find_element_by_xpath('//*[@id="store_nav_search_term"]')
+search.send_keys('艾爾登法環')
+bnt = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/div[1]/div[2]/div/div/div/div[2]/div[2]/div/div[9]/div[1]/form/div/a/img').click()
+button1 = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/form/div[1]/div/div[1]/div[3]/div[2]/div[3]/a/div[1]/img').click()
 
-
-def get(*args):
-    click_on = driver.find_element_by_xpath(args[0]).click()
-    c = 1
-    while(True):
-        try:
-            _ = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/div[5]/div[2]/div[1]/div['+str(c)+']/div/h1')
-            c += 1
-        except:
-            break
-    for i in range(1, c):
-        game = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/div[5]/div[2]/div[1]/div['+str(i)+']/div/h1')
-        price = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/div[5]/div[2]/div[1]/div['+str(i)+']/div/div[2]/div/div[1]')
-        
-    off = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/div[5]/div[2]/div[1]/div['+str(c-1)+']/div/div[2]/div[2]/div[1]/div[1]')
-    yourprice = driver.find_element_by_xpath('/html/body/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/div[5]/div[2]/div[1]/div['+str(c-1)+']/div/div[2]/div[2]/div[1]/div[2]/div/div[2]')
-    print(off.text)
-    print(yourprice.text)
-    
-        
-
-get('/html/body/div[1]/div[7]/div[5]/div[1]/div[4]/div/div/div[1]/div/a[1]/div[1]/img')
-
-
-    
-    
 
 
